@@ -6,8 +6,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
-import com.simplilearn.unittest.AgeCalculator;
-
+import UnitTesting.Junit5.AgeCalculator;
 public class TestMetaAnnotations2 {
 
 	AgeCalculator ageCalculator = new AgeCalculator();
